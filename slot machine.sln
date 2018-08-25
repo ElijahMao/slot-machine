@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Basic Express 2010
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "slot machine", "slot machine.vbproj", "{5827D406-9E02-46F0-857A-33D7BE868F1F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5827D406-9E02-46F0-857A-33D7BE868F1F}.Debug|x86.ActiveCfg = Debug|x86
+		{5827D406-9E02-46F0-857A-33D7BE868F1F}.Debug|x86.Build.0 = Debug|x86
+		{5827D406-9E02-46F0-857A-33D7BE868F1F}.Release|x86.ActiveCfg = Release|x86
+		{5827D406-9E02-46F0-857A-33D7BE868F1F}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\mis002\Desktop\ElijahMao\slot machine\bin\Debug\slot machine.exe
+C:\Users\mis002\Desktop\ElijahMao\slot machine\bin\Debug\slot machine.pdb
+C:\Users\mis002\Desktop\ElijahMao\slot machine\bin\Debug\slot machine.xml
+C:\Users\mis002\Desktop\ElijahMao\slot machine\obj\x86\Debug\slot_machine.Resources.resources
+C:\Users\mis002\Desktop\ElijahMao\slot machine\obj\x86\Debug\slot machine.vbproj.GenerateResource.Cache
+C:\Users\mis002\Desktop\ElijahMao\slot machine\obj\x86\Debug\slot machine.exe
+C:\Users\mis002\Desktop\ElijahMao\slot machine\obj\x86\Debug\slot machine.xml
+C:\Users\mis002\Desktop\ElijahMao\slot machine\obj\x86\Debug\slot machine.pdb
+C:\Users\mis002\Desktop\ElijahMao\slot machine\obj\x86\Debug\slot_machine.Form1.resources
+E:\ElijahMao\slot machine\obj\x86\Debug\slot machine.exe
+E:\ElijahMao\slot machine\obj\x86\Debug\slot machine.xml
+E:\ElijahMao\slot machine\obj\x86\Debug\slot machine.pdb
